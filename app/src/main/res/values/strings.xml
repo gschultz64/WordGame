@@ -9,4 +9,12 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="play">Play</string>
+    <string name="game_title">Guess the Word!</string>
+    <string name="skip">Skip</string>
+    <string name="submit">Submit</string>
+    <string name="back">Back</string>
+    <string name="score">Score:</string>
+    <string name="misses">Misses</string>
+    <string name="guess_word">guess word</string>
 </resources>
