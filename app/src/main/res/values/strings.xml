@@ -14,7 +14,8 @@
     <string name="skip">Skip</string>
     <string name="submit">Submit</string>
     <string name="back">Back</string>
-    <string name="score">Score:</string>
-    <string name="misses">Misses</string>
+    <string name="score">Streak:</string>
     <string name="guess_word">guess word</string>
+    <string name="lives">Lives:</string>
+    <string name="restart">restart</string>
 </resources>
